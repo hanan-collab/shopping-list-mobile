@@ -1,3 +1,5 @@
+[AppCenter Link] https://install.appcenter.ms/users/hananadipratama21-gmail.com/apps/shopping-list/distribution_groups/public
+
 # shopping_list
 
 A new Flutter project.
